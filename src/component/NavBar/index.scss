@@ -1,0 +1,14 @@
+.container-left{
+    padding: 3rem;
+    width :17%;
+    background-color: rgb(91, 65, 240);
+    height :100vh;
+    border-radius: 20px;
+    // text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+}

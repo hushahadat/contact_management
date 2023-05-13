@@ -1,0 +1,48 @@
+.leaflet-container{
+    width :30vw;
+    height: 70vh;
+}
+.map-container{
+    margin-left: 2rem;
+    width :50%;
+}
+.graph-container{
+    margin-left: 1rem;
+    width :50%;
+}
+.main-conatiner{
+    padding: 2rem;
+    display: flex ;
+    height :100vh;
+}
+.item-center{
+    justify-content: center;
+}
+.container-left{
+    padding: 3rem;
+    width :17%;
+    background-color: rgb(91, 65, 240);
+    height :100vh;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+}
+b{
+    color: rgb(90, 87, 87);
+}
+.container-mapright{
+    margin-top: 6px;
+    padding: 1rem;
+    width :70%;
+    background-color: rgb(255, 255, 255);
+    height :90vh;
+    border-radius: 20px;
+    display: flex;
+    // text-align: center;
+    //display: flex;
+    
+}
